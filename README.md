@@ -1,2 +1,2 @@
-# [JennyLab-Wiki]([https://www.ejemplo.com](https://github.com/JennyLab/JennyLabWiki/wiki)
+# [JennyLab-Wiki](https://github.com/JennyLab/JennyLabWiki/wiki)
 ![](https://github.com/JennyLab/JennyWiki/blob/main/jennylab_printrransparente.png?raw=1)
